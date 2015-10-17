@@ -1,2 +1,2 @@
 # utils
-Golang中一些常用函数。
+Golang中一些有用的小函数。
